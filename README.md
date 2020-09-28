@@ -27,7 +27,7 @@ Por completar
 
 ## Execution 
 ```sh
-cd Pagina Web con Dashio/src
+cd "Pagina Web con Dashio/src"
 uvicorn BackBone:app --reload
 ```
 Point the brwoser to the URL
